@@ -11,9 +11,9 @@ This is a personal homepage. It is aimed at peers, prospective collaborators, an
 ## Screenshots
 Landing hero with status card and portrait
 ![](files/main.png)
-Projects list with expanded detail state
+Bio and Honors
 ![](files/1.png)
-Awards grid and modal trigger
+Extracurriculars, Misc, and Footer
 ![](files/2.png)
 
 ---
