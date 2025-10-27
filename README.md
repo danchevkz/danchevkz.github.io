@@ -9,14 +9,12 @@ This is a personal homepage. It is aimed at peers, prospective collaborators, an
 ---
 
 ## Screenshots
-- ![](files/main.png) -- landing hero with status card and portrait.
-- ![](files/1.png) -- projects list with expanded detail state.
-- ![](files/2.png) -- awards grid and modal trigger.
-
----
-
-## Credits
-Font:
+Landing hero with status card and portrait
+![](files/main.png)
+Projects list with expanded detail state
+![](files/1.png)
+Awards grid and modal trigger
+![](files/2.png)
 
 ---
 
@@ -26,7 +24,7 @@ From index.html, which acts as a landing page, the main navigation links are CV,
 - Header -- Profile photo, title, institution, and link to a downloadable CV.
 - Navigation Bar -- Sticky links to all main sections plus a Blog link.
 
-- Sections:
+Sections:
 - Bio (#bio) -- Educational background and brief academic journey.
 - Honors (#honors) -- List of medals, awards, and representative distinctions.
 - Extracurriculars (#extracurricular) -- Expandable sections for major initiatives and organizations led or joined.
@@ -39,9 +37,12 @@ From index.html, which acts as a landing page, the main navigation links are CV,
 - Lightweight, no frameworks or libraries.
 - Minimal JavaScript for interactivity.
 - Fully client-side, optimized for GitHub Pages.
+
 The site is partitioned into distinct categories: bio, honors, extras, etc. This allows a visitor to jump to the part they care about. There is minimal decoration, making the focus on the information. I chose a blueish color scheme that I keep consistent through the entire page. I included a CV to give a formal record of my milestones, and a Bio for more a more informal introduction. I separated honors to highlight my awards, and extracurriculars to show my activities outside academics. I added a Misc section, which I plan to update later, and the case is similar for the Blog.
+
+---
 
 ## Credits  
 - **Author:** Alexander Danchev  
 - **Hosting:** [GitHub Pages](https://pages.github.com/)  
-- **Inspiration:** Based on minimalist personal portfolio layouts from Stanford.
+- **Inspiration:** Based on minimalist personal portfolio layouts from Stanford faculty.
