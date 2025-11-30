@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "file": "welcome.md",
+      "title": "Welcome to My Blog",
+      "excerpt": "An introduction to this blog.",
+      "date": "2025-01-15",
+      "tags": ["meta"]
+    }
+  ]
+}
